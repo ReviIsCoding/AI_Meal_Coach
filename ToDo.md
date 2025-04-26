@@ -8,7 +8,7 @@ This ToDo list outlines the main tasks and a step-by-step guide for adapting and
 
 - [x] Create new repository: [Done]
 - [x] Write initial README.md: [Done]
-- [ ] Create base folders (`model/`, `utils/`, `data/`, `examples/`)
+- [x]Create base folders (`model/`, `utils/`, `data/`, `examples/`)
 - [ ] Prepare `requirements.txt` (minimal set)
 - [ ] Prepare `main.py` with a simple command-line loop (input + agent call)
 
