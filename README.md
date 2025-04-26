@@ -21,7 +21,7 @@ Planning healthy meals with dietary restrictions like **Hashimoto's**, **Type 2 
 
 ## 💻 Technology Stack
 
-- **Model**: [Bielik](https://hf.co/Polish-Bielik) (local LLM, in progress)
+- **Model**: [Bielik]([https://hf.co/Polish-Bielik](https://huggingface.co/speakleash)) (local LLM, in progress)
 - **Semantic Search**: FAISS for recipe retrieval
 - **Embeddings**: Pre-generated or custom embeddings
 - **Python Libraries**: `transformers`, `faiss-cpu`, `numpy`, `pandas`
